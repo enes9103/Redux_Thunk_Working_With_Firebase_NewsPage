@@ -28,7 +28,7 @@ npm install veya yarn install
 - `@emotion/styled`
 - `firebase`
 
-![redux middleware.gif](redux middleware.gif)
+![redux middleware.gif](redux-middleware.gif)
 
 ## `Kullanilacak API`:
 
