@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+## Getting Started with Create React App
+## Redux Nedir, Nasil Uygulanir
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,8 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Project gif](Animation.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-# Redux Nedir, Nasil Uygulanir Projesi
 
 ## `Kurulum`
 
